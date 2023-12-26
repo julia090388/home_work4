@@ -1,0 +1,22 @@
+10:00:03 INFO We get 82bf20a703872e37afe13e9da06f8370
+10:00:03 INFO Test1 starting
+10:00:04 INFO We get post
+10:00:05 INFO We get 82bf20a703872e37afe13e9da06f8370
+10:00:05 INFO Test2 starting
+10:00:06 INFO We create post
+10:00:06 INFO ====== WebDriver manager ======
+10:00:07 INFO Get LATEST geckodriver version for 118.0 firefox
+10:00:08 INFO Get LATEST geckodriver version for 118.0 firefox
+10:00:09 INFO Driver [C:\Users\ALEX\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+10:00:14 INFO Test3 starting
+10:00:14 INFO Log in to the site
+10:00:17 INFO Test4 starting
+10:00:17 INFO Log in to the site
+10:00:18 INFO Test5 starting
+10:00:21 INFO Test6 starting
+10:00:21 INFO Test7 starting
+10:00:21 INFO Test8 starting
+10:00:21 INFO Test9 starting
+10:00:21 INFO Test10 starting
+10:00:21 INFO Test11 starting
+10:00:23 INFO We find text 'Form successfully submitted' after click contact us button
