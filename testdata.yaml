@@ -1,0 +1,11 @@
+path_login: 'https://test-stand.gb.ru/gateway/login'
+path_post: 'https://test-stand.gb.ru/api/posts'
+login: 'Keith Bednar'
+password: 'e0479b6f92'
+id_check: 95170
+title: 'Русские пельмени'
+description: 'Русские пельмени...'
+content: 'А насколько русские они на самом деле? Ведь известно, что до 30-х годов XIX века пельмени не упоминались в русской литературе".    '
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 2
